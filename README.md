@@ -1,2 +1,2 @@
 # Epic-dotenv
-A dynamic environment variable manager
+A dynamic environment variables & configuration managment library.

@@ -1,0 +1,20 @@
+{
+  "name": "saff-elli-khan/dotenv",
+  "description": "A dynamic environment variables & configuration managment library.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Saif Ali Khan",
+      "email": "saffellikhan@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dotenv\\": "src/"
+    }
+  }
+}
