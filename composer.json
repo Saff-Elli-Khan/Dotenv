@@ -3,6 +3,7 @@
   "description": "A dynamic environment variables & configuration managment library.",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Saif Ali Khan",
