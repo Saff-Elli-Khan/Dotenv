@@ -112,5 +112,4 @@ $dotenv->options()->required(["Foo", "Moo"])->is_email();
 * is_integer();
 * is_float();
 
-Let us know what do you think about this library?
-Thanks!
+Sorry for any type of mistakes, Let us know what do you think about this library? Thanks!
